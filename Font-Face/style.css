@@ -1,0 +1,10 @@
+@font-face {
+      font-family: 'lobster';
+      src: url('src/Lobster.otf') format('opentype');
+    }
+    
+    h1 {
+      font-size: 80px;
+      text-align: center;
+      font-family: lobster;
+    }
